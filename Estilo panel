@@ -1,0 +1,35 @@
+<style type="text/css">
+.Cabecera{
+padding:20px;
+height: 30px;
+/*Aqui debajo podes cambiar el color*/
+background-color: green;
+font-size: 20px;
+}
+.Panelderecho{
+width:300px;
+/*Aqui debajo podes cambiar el color*/
+background-color: blue;
+height: 100%;
+float:right;
+}
+.Panelizquierdo{
+width:300px;
+/*Aqui debajo podes cambiar el color*/
+background-color: pink;
+height: 100%;
+float:left;
+}
+
+.Pie{
+position:fixed;
+/*Aqui debajo podes cambiar el color*/
+background-color: yellow;
+bottom:0px;
+left: 0px;
+height: 7%;
+width: 100%;
+overflow: hidden;
+clear: both;
+}
+</style>
